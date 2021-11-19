@@ -3,7 +3,7 @@ Workflow do GitHub Actions para build e push de imagens no Docker Hub, com execu
 
 Aplicação que serviu de base para a criação deste **workflow** (inclui **testes de carga**):
 
-**https://github.com/renatogroffe/k6-LoadTests-Thresholds-ASPNETCore-SiteContagem**
+**https://github.com/azurenapratica/k6-LoadTests-ASPNETCore-SiteContagem**
 
 Artigos detalhando a utilização da ferramenta k6:
 
